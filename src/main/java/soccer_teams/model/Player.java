@@ -1,4 +1,4 @@
-package soccer_teams;
+package soccer_teams.model;
 
 public class Player {
     private String name;

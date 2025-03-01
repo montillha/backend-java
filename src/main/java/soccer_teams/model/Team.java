@@ -1,4 +1,4 @@
-package soccer_teams;
+package soccer_teams.model;
 
 public class Team {
     private String name;
@@ -39,7 +39,7 @@ public class Team {
         }
     }
 
-    public void substitute(Player substitute,Player starter){
+    public void substitute(Player substitute, Player starter){
         int index_substitute=searchPlayer(substitute);
         int index_starter=searchPlayer(starter);
         if(index_substitute!=-1 && index_starter!=-1) {

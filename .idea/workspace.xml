@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95735404-71da-4927-9203-5ffc986343c0" name="Changes" comment="" />
+    <list default="true" id="95735404-71da-4927-9203-5ffc986343c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/Team.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +34,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/maria/OneDrive/Documentos/DEV/java-backend/backend-java/src/main/java/soccer_teams",
     "onboarding.tips.debug.path": "C:/Users/maria/OneDrive/Documentos/DEV/java-backend/backend-java/src/main/java/org/example/Main.java"
   }
 }]]></component>

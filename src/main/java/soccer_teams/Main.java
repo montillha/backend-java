@@ -1,3 +1,8 @@
+package soccer_teams;
+
+import soccer_teams.model.Player;
+import soccer_teams.model.Team;
+
 public class Main {
     public static void main(String[] args) {
         Team team =new Team("Team_A","baseLocation1","Pedro");
