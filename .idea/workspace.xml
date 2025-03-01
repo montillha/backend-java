@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95735404-71da-4927-9203-5ffc986343c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/soccer_teams/Team.java" afterDir="false" />
-    </list>
+    <list default="true" id="95735404-71da-4927-9203-5ffc986343c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +26,23 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/maria/OneDrive/Documentos/DEV/java-backend/backend-java/src/main/java/soccer_teams",
-    "onboarding.tips.debug.path": "C:/Users/maria/OneDrive/Documentos/DEV/java-backend/backend-java/src/main/java/org/example/Main.java"
+    "last_opened_file_path": "C:/Users/maria/OneDrive/Documentos/DEV/java-backend/backend-java/src/main/java/soccer_teams/model",
+    "onboarding.tips.debug.path": "C:/Users/maria/OneDrive/Documentos/DEV/java-backend/backend-java/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\OneDrive\Documentos\DEV\java-backend\backend-java\src\main\java\soccer_teams\model" />
+      <recent name="C:\Users\maria\OneDrive\Documentos\DEV\java-backend\backend-java\src\main\java\soccer_teams" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\OneDrive\Documentos\DEV\java-backend\backend-java\src\main\java\soccer_teams\readme" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +53,17 @@
       <updated>1740798663734</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
