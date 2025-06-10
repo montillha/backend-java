@@ -9,9 +9,9 @@ public class StatisticsService {
     private StatisticsService(){};
     public static StatisticData createStatistics(List<Bulletin> bulletins){
         List<StatisticData> statisticData = new ArrayList<>();
-        int cases = bulletins.stream().map(Bulletin::getInfected).reduce(0,Integer::sum);
-        int deaths = bulletins.stream().map(Bulletin::getDeaths).reduce(0,Integer::sum);
-        double avarageIcu= (bulletins.stream().map(Bulletin::getIcuRatio).reduce(0.0,Double::sum))/ bulletins.size();
+        int cases = bulletins.stream().mapToInt(Bulletin::getInfected).sum();
+        int deaths = bulletins.stream().mapToInt(Bulletin::getDeaths).sum();
+        double avarageIcu= bulletins.stream().mapToDouble(Bulletin::getIcuRatio).average().orElse(0);
         return  new StatisticData(cases,deaths,avarageIcu);
     }
 }
